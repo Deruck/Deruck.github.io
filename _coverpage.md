@@ -8,4 +8,4 @@
 [数据结构与算法](DSNA/README.md)
 [My GitHub](https://github.com/Deruck)
 
-![](https://cdn.jsdelivr.net/gh/Deruck/Img/Img/1.jpg)
+![](_media/1.jpg)
