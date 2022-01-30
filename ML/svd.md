@@ -33,6 +33,7 @@ $$A\approx U_k\Sigma_kV_k^T$$
 
 
 特别地，$k$与矩阵$A$的秩相等时，为**紧奇异值分解**。
+
 ![](https://cdn.jsdelivr.net/gh/Deruck/Img/Img/20210617193434.png)
 <br><br>
 
