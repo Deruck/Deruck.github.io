@@ -76,6 +76,17 @@
                 namespace: 'Docsify-Guide',
             }
         }
+
+        window.$docsify = {
+            // ...
+            scrollToTop: {
+                auto: true,
+                text: 'Top',
+                right: 15,
+                bottom: 15,
+                offset: 500
+            }
+        };
     </script>
 
     <!-- docsify的js依赖 -->
@@ -101,8 +112,11 @@
     <!-- or <script src="//cdn.jsdelivr.net/gh/upupming/docsify-katex@latest/dist/docsify-katex.js"></script> -->
     <link rel="stylesheet" href="//unpkg.com/katex@latest/dist/katex.min.css"/>
 
-    <!-- 分页导航-->
+    <!-- 分页导航 -->
     <script src="//unpkg.com/docsify-pagination/dist/docsify-pagination.min.js"></script>
+
+    <!-- 返回顶部 -->
+    <script src="//unpkg.com/docsify-scroll-to-top/dist/docsify-scroll-to-top.min.js"></script>
     
 
 </body>
