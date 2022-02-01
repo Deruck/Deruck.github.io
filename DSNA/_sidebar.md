@@ -1,2 +1,0 @@
-- [**向量**](DSNA/Vector/README.md)
-- [**链表**](DSNA/Vector/README.md)

@@ -1,0 +1,5 @@
+- [**机器学习**](_source/ML/README.md)
+	- [信息论基础](_source/ML/information_theory_basic.md)
+	- [感知机](_source/ML/perceptron.md)
+	- [朴素贝叶斯](_source/ML/naive-bayes.md)
+	- [奇异值分解](_source/ML/svd.md)
