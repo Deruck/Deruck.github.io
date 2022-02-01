@@ -18,7 +18,7 @@ $$A=U\Sigma V^T$$
 	\end{aligned}$$
 - $\Sigma$唯一，$U$与$V$不唯一
 
-![](https://cdn.jsdelivr.net/gh/Deruck/Img/Img/20210617191150.png)
+![](https://xcdn.loli.top/gh/Deruck/Img/Img/20210617191150.png)
 
 以上分解方式为完全奇异值分解（full svd），而更常用的是奇异值分解的截断形式（truncated）和紧凑形式（compact）。
 
@@ -29,12 +29,12 @@ $$A\approx U_k\Sigma_kV_k^T$$
 - $U_K$、$V_k$分别为$U$、$V^T$的前$k$列、行
 - $\Sigma_k$为由$\Sigma$的前$k$个对角元素组成的$k$阶对角矩阵
 
-![](https://cdn.jsdelivr.net/gh/Deruck/Img/Img/20210617191949.png)
+![](https://xcdn.loli.top/gh/Deruck/Img/Img/20210617191949.png)
 
 
 特别地，$k$与矩阵$A$的秩相等时，为**紧奇异值分解**。
 
-![](https://cdn.jsdelivr.net/gh/Deruck/Img/Img/20210617193434.png)
+![](https://xcdn.loli.top/gh/Deruck/Img/Img/20210617193434.png)
 <br><br>
 
 ## 2 理解
