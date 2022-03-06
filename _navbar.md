@@ -8,4 +8,5 @@
   - [哈希表](_source/DSNA/00hashTable.md)
   - [递归](_source/DSNA/00recurrence.md)
   - [滑动窗口](_source/DSNA/00slidingWindow.md)
+  - [排序](_source/DSNA/00sort.md)
 - [未归档](_source/Inbox/README.md)
