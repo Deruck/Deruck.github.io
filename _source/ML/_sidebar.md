@@ -3,3 +3,4 @@
 	- [感知机](_source/ML/perceptron.md)
 	- [朴素贝叶斯](_source/ML/naive-bayes.md)
 	- [奇异值分解](_source/ML/svd.md)
+	- [监督学习与数据表示](_source/ML/supervised-learning.md)
