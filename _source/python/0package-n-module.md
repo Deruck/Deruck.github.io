@@ -12,3 +12,12 @@
 	```
 	
 	- 在任意路径中，创建`[filename].pth`文件，在文件中写入包所在路径，即可全局访问。
+- 如果需要读取包中的数据，可以使用模块`pkgutil`实现
+```python
+from pkgutil import get_data
+from io import BytesIO
+import pandas as pd
+
+data_bytes = BytesIO(get_data(__package__, file_path))
+data: pd.DataFrame = pd.read_csv(data_bytes)
+```

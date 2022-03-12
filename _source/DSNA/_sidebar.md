@@ -14,6 +14,7 @@
 	- [0027-移除元素](_source/DSNA/lc0027.md)
 	- [0059-螺旋矩阵 II](_source/DSNA/lc0059.md)
 	- [0142-环形链表 II](_source/DSNA/lc0142)
+	- [0151-翻转字符串里的单词](lc0151.md)
 	- [0203-移除链表元素](_source/DSNA/lc0203)
 	- [0206-反转链表 \*](_source/DSNA/lc0206)
 	- [0209-长度最小的子数组](_source/DSNA/lc0209.md)

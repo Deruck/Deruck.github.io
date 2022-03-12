@@ -45,5 +45,13 @@ def xToX(x: T) -> T:
 xToX(1), xToX('abc')
 ```
 
+## 多种可能类型
+```python
+from typing import Union
+
+a: Union[int, str] = 'a'
+```
+
+
 
 [详见](https://www.pythonsheets.com/notes/python-typing.html)
