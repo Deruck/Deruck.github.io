@@ -5,6 +5,7 @@
   - [链表](_source/DSNA/00ListNode.md)
   - [双指针](_source/DSNA/00dual-pointer.md)
   - [栈](_source/DSNA/00stack.md)
+  - [队列](_source/DSNA/00queue.md)
   - [哈希表](_source/DSNA/00hashTable.md)
   - [递归](_source/DSNA/00recurrence.md)
   - [滑动窗口](_source/DSNA/00slidingWindow.md)
