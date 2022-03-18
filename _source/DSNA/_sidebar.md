@@ -13,6 +13,7 @@
 	- [0001-两数之和](_source/DSNA/lc0001)
 	- [0015-三数之和](_source/DSNA/lc0015)
 	- [0019-删除链表的倒数第 N 个结点](_source/DSNA/lc0019)
+	- [0020-有效的括号](_source/DSNA/lc0020)
 	- [0027-移除元素](_source/DSNA/lc0027.md)
 	- [0028-实现 strStr()\*](_source/DSNA/lc0028.md)
 	- [0059-螺旋矩阵 II](_source/DSNA/lc0059.md)
