@@ -11,6 +11,7 @@
 - [排序](_source/DSNA/00sort.md)
 - [KMP算法](_source/DSNA/00KMP.md)
 - [二叉树](_source/DSNA/00binaryTree.md)
+- [回溯](_source/DSNA/00backtrack.md)
 
 ## 所有题目
 - [0001-两数之和](_source/DSNA/lc0001.md)
@@ -19,6 +20,8 @@
 - [0020-有效的括号](_source/DSNA/lc0020.md)
 - [0027-移除元素](_source/DSNA/lc0027.md)
 - [0028-实现 strStr()\*](_source/DSNA/lc0028.md)
+- [0046-全排列](_source/DSNA/lc0046.md)
+- [0051-N 皇后](_source/DSNA/lc0051.md)
 - [0059-螺旋矩阵 II](_source/DSNA/lc0059.md)
 - [0104-二叉树的最大深度](_source/DSNA/lc0104.md)
 - [0142-环形链表 II](_source/DSNA/lc0142.md)
