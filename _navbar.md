@@ -13,6 +13,7 @@
   - [KMP算法](_source/DSNA/00KMP.md)
   - [二叉树](_source/DSNA/00binaryTree.md)
   - [回溯](_source/DSNA/00backtrack.md)
+  - [广度优先搜索](_source/DSNA/00bfs.md)
 - 计算机语言
 	- [python](_source/python/README.md)
 - [未归档](_source/Inbox/README.md)
