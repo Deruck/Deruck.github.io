@@ -35,6 +35,7 @@
 	- [0078-子集](_source/DSNA/lc0078.md)
 	- [0086-分隔链表](_source/DSNA/lc0086.md)
 	- [0090-子集 II](_source/DSNA/lc0090.md)
+	- [0092-反转链表 II](_source/DSNA/lc0092.md)
 	- [0104-二叉树的最大深度](_source/DSNA/lc0104.md)
 	- [0111-二叉树的最小深度](_source/DSNA/lc0111.md)
 	- [0121-买卖股票的最佳时机](_source/DSNA/lc0121.md)

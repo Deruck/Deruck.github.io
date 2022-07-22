@@ -3,6 +3,7 @@
 - [0019-删除链表的倒数第 N 个结点](_source/DSNA/lc0019)
 - [0021-合并两个有序链表](_source/DSNA/lc0021.md)
 - [0086-分隔链表](_source/DSNA/lc0086.md)
+- [0092-反转链表 II](_source/DSNA/lc0092.md)
 - [0142-环形链表 II](_source/DSNA/lc0142)
 - [0160-相交链表](_source/DSNA/lc0160.md)
 - [0203-移除链表元素](_source/DSNA/lc0203)
