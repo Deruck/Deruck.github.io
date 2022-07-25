@@ -2,6 +2,7 @@
 - [链表节点的定义](_source/DSNA/def_list_node)
 - [0019-删除链表的倒数第 N 个结点](_source/DSNA/lc0019)
 - [0021-合并两个有序链表](_source/DSNA/lc0021.md)
+- [0025-K 个一组翻转链表](_source/DSNA/lc0025.md)
 - [0086-分隔链表](_source/DSNA/lc0086.md)
 - [0092-反转链表 II](_source/DSNA/lc0092.md)
 - [0142-环形链表 II](_source/DSNA/lc0142)

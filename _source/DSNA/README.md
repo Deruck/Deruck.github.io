@@ -24,6 +24,7 @@
 - [0020-有效的括号](_source/DSNA/lc0020.md)
 - [0021-合并两个有序链表](_source/DSNA/lc0021.md)
 - [0023-合并K个升序链表](_source/DSNA/lc0023.md)
+- [0025-K 个一组翻转链表](_source/DSNA/lc0025.md)
 - [0027-移除元素](_source/DSNA/lc0027.md)
 - [0028-实现 strStr()\*](_source/DSNA/lc0028.md)
 - [0034-在排序数组中查找元素的第一个和最后一个位置](_source/DSNA/lc0034.md)
