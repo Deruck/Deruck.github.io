@@ -53,6 +53,7 @@
 - [0209-长度最小的子数组](_source/DSNA/lc0209.md)
 - [0225-用队列实现栈](_source/DSNA/lc0225.md)
 - [0232-用栈实现队列](_source/DSNA/lc0232.md)
+- [0234-回文链表](_source/DSNA/lc0234.md)
 - [0242-有效的字母异位词](_source/DSNA/lc0242.md)
 - [0309-最佳买卖股票时机含冷冻期](_source/DSNA/lc0309.md)
 - [0344-反转字符串](_source/DSNA/lc0344.md)

@@ -9,5 +9,6 @@
 - [0160-相交链表](_source/DSNA/lc0160.md)
 - [0203-移除链表元素](_source/DSNA/lc0203)
 - [0206-反转链表 \*](_source/DSNA/lc0206)
+- [0234-回文链表](_source/DSNA/lc0234.md)
 - [0707-设计链表 \*](_source/DSNA/lc0707)
 - [0876-链表的中间结点](_source/DSNA/lc0876.md)
