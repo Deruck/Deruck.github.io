@@ -38,6 +38,7 @@
 	- [0090-子集 II](_source/DSNA/lc0090.md)
 	- [0092-反转链表 II](_source/DSNA/lc0092.md)
 	- [0104-二叉树的最大深度](_source/DSNA/lc0104.md)
+	- [0105-从前序与中序遍历序列构造二叉树](_source/DSNA/lc0105.md)
 	- [0111-二叉树的最小深度](_source/DSNA/lc0111.md)
 	- [0114-二叉树展开为链表](_source/DSNA/lc0114.md)
 	- [0116-填充每个节点的下一个右侧节点指针](_source/DSNA/lc0116.md)
