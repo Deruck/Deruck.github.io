@@ -65,6 +65,7 @@
 	- [0541-反转字符串 II](_source/DSNA/lc0541.md)
 	- [0543-二叉树的直径](_source/DSNA/lc0543.md)
 	- [0567-字符串的排列](_source/DSNA/lc0576.md)
+	- [0652-寻找重复的子树](_source/DSNA/lc0652.md)
 	- [0654-最大二叉树](_source/DSNA/lc0654.md)
 	- [0704-二分查找](_source/DSNA/lc0704.md)
 	- [0707-设计链表 \*](_source/DSNA/lc0707.md)

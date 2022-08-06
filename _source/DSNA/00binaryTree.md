@@ -100,6 +100,13 @@ void traverse(TreeNode* root) {
 - [0105-从前序与中序遍历序列构造二叉树](_source/DSNA/lc0105.md)
 - [0114-二叉树展开为链表](_source/DSNA/lc0114.md)
 - [0654-最大二叉树](_source/DSNA/lc0654.md)
+
+## 后序遍历
+
+将前序遍历替换顺序即可，特点为先操作子树再操作根节点，可以获得子树信息，一般在子树问题中用到。
+
+- [0652-寻找重复的子树](_source/DSNA/lc0652.md)
+
 ## 汇总
 
 - [0104-二叉树的最大深度](_source/DSNA/lc0104.md)
@@ -109,4 +116,5 @@ void traverse(TreeNode* root) {
 - [0116-填充每个节点的下一个右侧节点指针](_source/DSNA/lc0116.md)
 - [0226-翻转二叉树](_source/DSNA/lc0226.md)
 - [0543-二叉树的直径](_source/DSNA/lc0543.md)
+- [0652-寻找重复的子树](_source/DSNA/lc0652.md)
 - [0654-最大二叉树](_source/DSNA/lc0654.md)
