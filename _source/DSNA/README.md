@@ -75,3 +75,4 @@
 - [0714-买卖股票的最佳时机含手续费](_source/DSNA/lc0714.md)
 - [0752-打开转盘锁](_source/DSNA/lc0752.md)
 - [0876-链表的中间结点](_source/DSNA/lc0876.md)
+- [0889-根据前序和后序遍历构造二叉树](_source/DSNA/lc0889.md)

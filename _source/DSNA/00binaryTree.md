@@ -113,6 +113,7 @@ void traverse(TreeNode* root) {
 通过遍历序列构造二叉树，通过两种遍历方式的空间特点，定位根节点位置，继而推算出左右子树的位置，然后通过构造左右子树递归地构造出当前子树。
 - [0105-从前序与中序遍历序列构造二叉树](_source/DSNA/lc0105.md)
 - [0106-从中序与后序遍历序列构造二叉树](_source/DSNA/lc0106.md)
+- [0889-根据前序和后序遍历构造二叉树](_source/DSNA/lc0889.md)
 ## 汇总
 
 - [0104-二叉树的最大深度](_source/DSNA/lc0104.md)
@@ -125,3 +126,4 @@ void traverse(TreeNode* root) {
 - [0543-二叉树的直径](_source/DSNA/lc0543.md)
 - [0652-寻找重复的子树](_source/DSNA/lc0652.md)
 - [0654-最大二叉树](_source/DSNA/lc0654.md)
+- [0889-根据前序和后序遍历构造二叉树](_source/DSNA/lc0889.md)
