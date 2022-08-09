@@ -99,6 +99,7 @@ void traverse(TreeNode* root) {
 ### 题目
 - [0105-从前序与中序遍历序列构造二叉树](_source/DSNA/lc0105.md)
 - [0114-二叉树展开为链表](_source/DSNA/lc0114.md)
+- [0297-二叉树的序列化与反序列化](_source/DSNA/lc0297.md)
 - [0654-最大二叉树](_source/DSNA/lc0654.md)
 
 ## 后序遍历
@@ -114,6 +115,9 @@ void traverse(TreeNode* root) {
 - [0105-从前序与中序遍历序列构造二叉树](_source/DSNA/lc0105.md)
 - [0106-从中序与后序遍历序列构造二叉树](_source/DSNA/lc0106.md)
 - [0889-根据前序和后序遍历构造二叉树](_source/DSNA/lc0889.md)
+
+通过完整的前序遍历构造二叉树
+- [0297-二叉树的序列化与反序列化](_source/DSNA/lc0297.md)
 ## 汇总
 
 - [0104-二叉树的最大深度](_source/DSNA/lc0104.md)
@@ -123,6 +127,7 @@ void traverse(TreeNode* root) {
 - [0114-二叉树展开为链表](_source/DSNA/lc0114.md)
 - [0116-填充每个节点的下一个右侧节点指针](_source/DSNA/lc0116.md)
 - [0226-翻转二叉树](_source/DSNA/lc0226.md)
+- [0297-二叉树的序列化与反序列化](_source/DSNA/lc0297.md)
 - [0543-二叉树的直径](_source/DSNA/lc0543.md)
 - [0652-寻找重复的子树](_source/DSNA/lc0652.md)
 - [0654-最大二叉树](_source/DSNA/lc0654.md)
